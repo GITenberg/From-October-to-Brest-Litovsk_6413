@@ -1,0 +1,28 @@
+_repo: From-October-to-Brest-Litovsk_6413
+creator:
+  author:
+    agent_name: Trotsky, Leon
+    aliases:
+    - Троцкий, Лев Давидович
+    - Trotsky, Lev Davidovitch
+    - Trotzky, Leon Davidovich
+    birthdate: 1879
+    deathdate: 1940
+    gutenberg_agent_id: '2030'
+    url: http://www.gutenberg.org/2009/agents/2030
+    wikipedia: http://en.wikipedia.org/wiki/Leon_Trotsky
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6413'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soviet Union -- History -- Revolution, 1917-1921'
+- !lcsh 'Brest-Litovsk Peace Conference (1917-1918)'
+- !lcc 'DK'
+title: From October to Brest-Litovsk
+url: http://www.gutenberg.org/ebooks/6413
